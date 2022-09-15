@@ -8,7 +8,7 @@ public class MeuPrimeiroPrograma {
         Scanner console = new Scanner(System.in);
         System.out.println("Informe a entrada:");
         int op1 = console.nextInt();
-        System.out.println("Ola Mundo. Tem " + args.length + " argumento(s) e a entrada foi: " + op1);
+        System.out.println("Olá Mundo. Tem " + args.length + " argumento(s) e a entrada foi: " + op1);
     }
 
 }
